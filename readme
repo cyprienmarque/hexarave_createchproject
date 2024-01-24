@@ -1,1 +1,8 @@
-Hello
+Hello,
+Welcome to the repository of my fifth year project in Creative Technology at ESILV.
+
+In this repo you will find 7 different codes. 
+The one called "receiver_bracelet" is the one that has been uploaded on the HexaRave structure's ESP32.
+
+The others called "sender_bracelet_N_mpu" are the 6 codes uploaded on the 6 wristbands' ESP32. 
+They are all the same excepted the ID value is changing so the structure's ESP32 understands which board is sending a message.
