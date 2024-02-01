@@ -9,3 +9,5 @@ They are all the same excepted the ID value is changing so the structure's ESP32
 
 All the libraries used are esp_now.h, Wifi.h, FastLED.h, Adafruit_MPU6050.h, Adafruit_Sensor.h and Wire.h.
 So make sure you download them all on Arduino's IDE before trying to make the code work.
+
+See u around ;)
